@@ -1,0 +1,16 @@
+{
+    "name": "cedric/kercode_mvc",
+    "description": "Projet MVC",
+    "autoload": {
+        "psr-4": {
+            "Projet\\": "./app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cedricLt",
+            "email": "cedricletallec290@gmail.com"
+        }
+    ],
+    "require": {}
+}
